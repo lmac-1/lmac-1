@@ -1,7 +1,5 @@
 # Lucy Macartney
 
-Hello and welcome to my GitHub profile 👋🏻
-
 ## About me
 
 Hi, I'm Lucy 👋🏻. I'm a British self-taught developer living in Cali, Colombia and started my coding journey in May 2020. 
