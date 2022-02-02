@@ -8,6 +8,8 @@ With so much free time living through [one of the longest quarantines in the wor
 
 Since then, I've worked through the Responsive Web Design and JavaScript Algorithms and Data Structures certifications on FreeCodeCamp and also completed CS50x's follow on course "CS50's Web Programming with Python and JavaScript". 
 
+In a past life, I worked for three years in a software company as a technical business analyst, working alongside developers to build websites for insurers and insurance brokers 🤓
+
 Right now I'm learning React 🤓
 
 Connect with me on [Twitter](https://twitter.com/codingwithlucy)
