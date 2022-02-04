@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm Lucy 👋🏻. I'm a British self-taught developer living in Cali, Colombia and started my coding journey in May 2020. 
+Hi, I'm Lucy 👋🏻. I'm a British self-taught developer living in Cali, Colombia and I started my coding journey in May 2020. 
 
 With so much free time living through [one of the longest quarantines in the world](https://www.abc.net.au/news/2020-11-09/colombia-six-month-coronavirus-lockdown-price-to-pay/12855242), I decided to take CS50X, a free "Introduction to Computer Science" course from the University of Harvard, and completely fell in love with programming. 
 
