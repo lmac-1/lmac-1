@@ -10,7 +10,7 @@ Since then, I've worked through the Responsive Web Design and JavaScript Algorit
 
 In a past life, I worked for three years in a software company as a technical business analyst, working alongside developers to build websites for insurers and insurance brokers 🤓
 
-Right now I'm learning React 🤓
+Right now I'm working on a freelance project, building the frontend of a real estate platform using React, NextJS and Material UI components 😎
 
 Connect with me on [Twitter](https://twitter.com/codingwithlucy)
 
