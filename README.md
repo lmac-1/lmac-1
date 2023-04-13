@@ -11,6 +11,11 @@ Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Co
 <a href="https://codingwithlucy.hashnode.dev/build-a-shopping-cart-in-nextjs-with-use-shopping-cart-and-stripe" title="Build a shopping cart in Next.js with use-shopping-cart and Stripe"><strong>Build a shopping cart in Next.js with use-shopping-cart and Stripe</strong></a>
 <br/> Are you looking for an easy way to build a shopping cart for your Next.js website? With the use-shopping-cart library and Stripe, you can quickly and easily create a powerful shopping cart. In this tutorial, I’ll show you how to add Stripe Checkout and shopping cart functionality to a simple pre-built Next.js project. Whether you're building for ... </p> <br/> 
 
+## Recent projects
+
+- **[Fresh fruit shop](https://github.com/lmac-1/simple-ecommerce-nextjs):** A simple fruit shop application integrated with Stripe, built using Next.js and TailwindCSS.
+- **[Lightning](https://github.com/lmac-1/lightning):** A simple game to practice your English speaking skills, built using Next.js and TailwindCSS. (still in progress)
+
 ## Get in touch
 
 I'm always ready and open to work on new and challenging things. I usually work on software development and technical writing freelance projects. Want to know more?
