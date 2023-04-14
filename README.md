@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Colombia with professional experience building applications with React, Next.js, MongoDB, and PostgreSQL. I’m also a technical writer with experience writing comprehensive documentation. I love making things easy for everyone to understand 🤓. In my free time, I enjoy writing technical and non-technical blog posts and contributing to open source projects.
+Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Colombia with professional experience building applications with React, Next.js, MongoDB, and PostgreSQL. I’m also a technical writer with experience writing comprehensive documentation. I love making things easy for everyone to understand 🤓. In my free time, I enjoy writing technical and non-technical blog posts, contributing to open source projects and salsa dancing!
 
 ## Latest blog post
 
@@ -13,8 +13,12 @@ Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Co
 
 ## Recent projects
 
-- **[Fresh fruit shop](https://github.com/lmac-1/simple-ecommerce-nextjs):** A simple fruit shop application integrated with Stripe, built using Next.js and TailwindCSS.
-- **[Lightning](https://github.com/lmac-1/lightning):** A simple game to practice your English speaking skills, built using Next.js and TailwindCSS. (still in progress)
+- **[Fresh fruit shop](https://github.com/lmac-1/simple-ecommerce-nextjs):** A simple fruit shop application integrated with Stripe, built using Next.js and TailwindCSS. This repository also includes starter code in case you'd like to follow along my tutorial on Hashnode.
+- **[Lightning](https://github.com/lmac-1/lightning):** A simple game to practice your English speaking skills, built using Next.js and TailwindCSS (still in progress).
+
+## Older projects
+- **[DanceApp](https://github.com/lmac-1/cs50w-finalproject):** An online platform for teachers to share unlisted YouTube videos with their dance students. Full stack application built in 2021 using Python, Django, JavaScript, and Bootstrap.
+   - [Walkthrough video on YouTube](https://www.youtube.com/watch?v=p1dJaElP5GQ)
 
 ## Get in touch
 
