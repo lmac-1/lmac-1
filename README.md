@@ -4,12 +4,20 @@
 
 Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Colombia with professional experience building applications with React, Next.js, MongoDB, and PostgreSQL. I’m also a technical writer with experience writing comprehensive documentation. I love making things easy for everyone to understand 🤓. In my free time, I enjoy writing technical and non-technical blog posts, contributing to open source projects and salsa dancing!
 
-## Latest blog post
+## Latest blog posts
 
 <p align="left">
+   <a href="https://skyward.digital/blog/our-sanity-and-next-js-open-source-starter-project" title="Our Sanity and Next.js open source starter project"><img src="https://pbs.twimg.com/card_img/1719402358528946177/QZ3ytdy8?format=jpg&name=medium" alt="Our Sanity and Next.js open source starter project" width="250px" align="left" /></a>
+<a href="https://skyward.digital/blog/our-sanity-and-next-js-open-source-starter-project"><strong>Our Sanity and Next.js open source starter project</strong></a>
+<br/>This blog post follows on from my previous blog post and talks through how I built an open source page builder. I talk through how I put the project together, steps to help you get started with it and I share some lessons and insights I picked up along the way </p>
+<br/>
+<a href="https://skyward.digital/blog/exploring-sanity-s-headless-cms-a-first-time-user-s-perspective" title="Exploring Sanity’s Headless CMS: A First-Time User's Perspective"><img src="https://a.storyblok.com/f/180053/4992x1760/38e37c6b71/exploring-sanity-s-cms_-a-first-time-user-s-perspective.png/m/640x370" alt="Exploring Sanity’s Headless CMS: A First-Time User's Perspective" width="250px" align="left" /></a>
+<a href="https://skyward.digital/blog/exploring-sanity-s-headless-cms-a-first-time-user-s-perspective"><strong>Exploring Sanity’s Headless CMS: A First-Time User's Perspective</strong></a>
+<br/>I tried out Sanity's CMS for the first time while working at Skyward and wrote this to talk about my first impressions. Check this out if you'd like to learn what makes Sanity a great headless CMS option. </p>
+<br/> <br/> <br/> 
 <a href="https://codingwithlucy.hashnode.dev/build-a-shopping-cart-in-nextjs-with-use-shopping-cart-and-stripe" title="Build a shopping cart in Next.js with use-shopping-cart and Stripe"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677687523773/26302bd0-7b85-44b3-b405-1ecbdb29cc23.png" alt="Build a shopping cart in Next.js with use-shopping-cart and Stripe" width="250px" align="left" /></a>
 <a href="https://codingwithlucy.hashnode.dev/build-a-shopping-cart-in-nextjs-with-use-shopping-cart-and-stripe" title="Build a shopping cart in Next.js with use-shopping-cart and Stripe"><strong>Build a shopping cart in Next.js with use-shopping-cart and Stripe</strong></a>
-<br/> Are you looking for an easy way to build a shopping cart for your Next.js website? With the use-shopping-cart library and Stripe, you can quickly and easily create a powerful shopping cart. In this tutorial, I’ll show you how to add Stripe Checkout and shopping cart functionality to a simple pre-built Next.js project. Whether you're building for ... </p> <br/> 
+<br/> Are you looking for an easy way to build a shopping cart for your Next.js website? With the use-shopping-cart library and Stripe, you can quickly and easily create a powerful shopping cart. In this tutorial, I’ll show you how to add Stripe Checkout and shopping cart functionality to a simple pre-built Next.js project. Whether you're building for ... </p>
 
 ## Recent projects
 
