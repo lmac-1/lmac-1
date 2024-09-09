@@ -14,7 +14,7 @@ Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Co
  <a href="https://codingwithlucy.hashnode.dev/forest-my-number-1-tool-for-deep-work" title="Forest: My #1 Tool for Deep Work"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709666888515/39a9b412-4ce6-479f-8b39-14a50aa8f9e7.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Forest: My #1 Tool for Deep Work" width="250px" align="left" /></a>
 <a href="https://codingwithlucy.hashnode.dev/forest-my-number-1-tool-for-deep-work"><strong>Forest: My #1 Tool for Deep Work</strong></a>
 <br/>This blog posts talks about my favourite tool for deep work: Forest App. I talk about why deep work is important and how to start developing your own focus superpower.
-   <br/><br/><br/><br/>
+   <br/><br/><br/><br/><br/>
 <a href="https://skyward.digital/blog/our-sanity-and-next-js-open-source-starter-project" title="Our Sanity and Next.js open source starter project"><img src="https://a.storyblok.com/f/180053/4992x1760/18aebb313f/our-sanity-and-next-js-open-source-starter-project.png/m/750x434/filters:quality(75)" alt="Our Sanity and Next.js open source starter project" width="250px" align="left" /></a>
 <a href="https://skyward.digital/blog/our-sanity-and-next-js-open-source-starter-project"><strong>Our Sanity and Next.js open source starter project</strong></a>
 <br/>This blog post follows on from my previous blog post and talks through how I built an open source page builder. I talk through how I put the project together, steps to help you get started with it and I share some lessons and insights I picked up along the way
