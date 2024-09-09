@@ -10,7 +10,7 @@ Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Co
    <a href="https://codingwithlucy.hashnode.dev/internationalisation-i18n-in-nextjs-with-next-intl" title="Internationalisation (i18n) in Next.js with next-intl"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714513388444/bcaaa177-5051-4584-b2df-ee4ec77a19b1.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Forest: My #1 Tool for Deep Work" width="250px" align="left" /></a>
 <a href="https://codingwithlucy.hashnode.dev/internationalisation-i18n-in-nextjs-with-next-intl"><strong>Internationalisation (i18n) in Next.js with next-intl</strong></a>
 <br/>This blog post is a guide to using next-intl to build multilingual web applications in Next.js. It acts as a companion to the official documentation and talks through the main parts of the library. I hope that it inspires to give next-intl a try.
-   <br/><br/><br/>
+   <br/><br/><br/><br/>
  <a href="https://codingwithlucy.hashnode.dev/forest-my-number-1-tool-for-deep-work" title="Forest: My #1 Tool for Deep Work"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709666888515/39a9b412-4ce6-479f-8b39-14a50aa8f9e7.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Forest: My #1 Tool for Deep Work" width="250px" align="left" /></a>
 <a href="https://codingwithlucy.hashnode.dev/forest-my-number-1-tool-for-deep-work"><strong>Forest: My #1 Tool for Deep Work</strong></a>
 <br/>This blog posts talks about my favourite tool for deep work: Forest App. I talk about why deep work is important and how to start developing your own focus superpower.
