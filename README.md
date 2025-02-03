@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Colombia with professional experience building applications with React, Next.js, MongoDB, and PostgreSQL. I’m also a technical writer with experience writing comprehensive documentation. I love making things easy for everyone to understand 🤓. In my free time, I enjoy writing technical and non-technical blog posts, contributing to open source projects and salsa dancing!
+Hi there, I'm Lucy 👋🏻. I'm a British software developer living in Cali, Colombia with professional experience building applications with React, Next.js, MongoDB, and PostgreSQL. I’m also a technical writer with experience writing comprehensive documentation. I love making things easy for everyone to understand 🤓. In my free time, I enjoy writing technical and non-technical blog posts, contributing to open source projects, freediving and salsa dancing!
 
 ## Latest blog posts
 
